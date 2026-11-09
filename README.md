@@ -6,6 +6,26 @@
 
 Teammates:
 - [Yihyun Nam](https://github.com/iindes/)
-- [Sally Hegab]
-- [Saajid Rohman]
+- [Sally Hegab](https://github.com/sallyhegab/)
+- [Saajid Rohman](https://github.com/sar9249)
 - [Scott Kim]
+
+### Description
+
+
+### Package Page Link
+
+
+### Import Instruction
+
+
+### Set up the virtual environment, install dependencies, and build and test
+
+
+### Configure and Run
+
+
+### Setting up Env. Var / Importer
+
+
+
