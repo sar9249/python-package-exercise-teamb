@@ -12,7 +12,7 @@ is_exist
 - TRUE if it is an actual word
 
 load_dict
-- Load words.txt
+- Load dict.txt
 
 val_try
 - Validates guess, returns (ok, message)
@@ -23,7 +23,7 @@ from functools import lru_cache
 from importlib import resources
 
 WORD_LENGTH = 5           # Fixed. 5 letters only
-WORDS_FILE = "words.txt"  # Dict file. Same folder as this file
+WORDS_FILE = "dict.txt"  # Dict file. Same folder as this file
 
 
 def clean(word: str) -> str:
